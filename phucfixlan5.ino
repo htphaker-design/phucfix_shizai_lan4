@@ -1,4 +1,4 @@
-// AGV SHIZAI - BAN HOAN CHINH (UU TIEN DUONG THANG BO QUA NHANH PHU + BAO TOAN CASE 14/15)
+// AGV SHIZAI - 23/10/2026 đã chạy ổn 
 #include "control_step.h"
 #include "sensor.h"
 

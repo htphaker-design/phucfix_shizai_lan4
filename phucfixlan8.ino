@@ -1,4 +1,4 @@
-// AGV SHIZAI - 23/10/2026 
+// AGV SHIZAI - 26/10/2026 
 #include "control_step.h"
 #include "sensor.h"
 
@@ -27,7 +27,7 @@ const unsigned long time_chay_thoat_case_14 = 2000; // Thời gian tối thiểu
 // --- XẢ HÀNG (sau 8s kể từ vạch 14): dừng + kích chân 10, rồi đứng thêm trước khi chạy ---
 const unsigned long thoi_gian_kich_pin_10 = 1000;
 const unsigned long thoi_gian_dung_them_sau_tha = 2000;
-const int speed = 1170;
+const int speed = 1230;
 const int slowSpeed = 12000;
 const int startSpeed = 12000;
 

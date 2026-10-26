@@ -1,4 +1,4 @@
-// AGV SHIZAI - 23/10/2026 (phucfixlan8: = phucfixlan7 + do thoi gian vong loop (DEBUG_LOOP_TIME); can kem control_step.h moi)
+// AGV SHIZAI - 23/10/2026 
 #include "control_step.h"
 #include "sensor.h"
 
